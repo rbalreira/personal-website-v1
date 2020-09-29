@@ -1,0 +1,27 @@
+.container-overlay {
+  position: relative;
+}
+
+.middle-overlay {
+  transition: 0.5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.middle-overlay a span,
+.middle-overlay a i {
+  font-size: 2rem;
+}
+
+.container-overlay:hover .image-overlay {
+  opacity: 0.3;
+}
+
+.container-overlay:hover .middle-overlay {
+  opacity: 1;
+}
