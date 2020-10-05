@@ -2,7 +2,7 @@
 	'use strict';
 
 	document.getElementById("cv").onclick = function () {
-		window.open("docs/curriculum.pdf", "_blank");
+		window.open("docs/RicardoBalreira_CV.pdf", "_blank");
 	};
 
 	/*----------------------------------------
