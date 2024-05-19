@@ -55,7 +55,7 @@
 
 ### Built With
 
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+- ![HTML][HTML]
 - [![SCSS][SCSS]][SCSS-url]
 - [![JavaScript][JavaScript]][JavaScript-url]
 
