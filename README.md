@@ -1,6 +1,23 @@
+<!-- PROJECT SHIELDS -->
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h3 align="center">Personal Website | v1</h3>
+
+  <p align="center">
+    The first iteration of my Personal Website built with HTML, <a href="https://sass-lang.com/">SCSS</a>, <a href="https://www.javascript.com/">JavaScript</a> and hosted with <a href="https://pages.github.com/">GitHub Pages</a>.
+    <br />
+    <br />
+  </p>
+</div>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
+
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -28,8 +45,33 @@
 
 ## About The Project
 
-![Project Preview](images/project-preview.gif)
+[![Project Preview][project-preview]](https://rbalreira.github.io/personal-website-v1/)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<p>This was a website built to showcase my professional experience, technical skills, some projects created during my academic journey and a couple of certificates achieved in that time.
+<br />Template is made by <a href="https://colorlib.com/">Colorlib</a>.
+</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- BUILT WITH -->
+
+### Built With
+
+- ![HTML][HTML]
+- [![SCSS][SCSS]][SCSS-url]
+- [![JavaScript][JavaScript]][JavaScript-url]
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+Simply open in your browser `index.html` file located in <b>root folder</b>.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/rbalreira/
+[project-preview]: images/project-preview.gif
+[HTML]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white
+[SCSS]: https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white
+[SCSS-url]: https://sass-lang.com/
+[JavaScript]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square
+[JavaScript-url]: https://www.javascript.com/
