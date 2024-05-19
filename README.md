@@ -55,7 +55,7 @@
 
 ### Built With
 
-- ![HTML][HTML]
+- ![HTML]
 - [![SCSS][SCSS]][SCSS-url]
 - [![JavaScript][JavaScript]][JavaScript-url]
 
