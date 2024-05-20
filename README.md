@@ -35,7 +35,7 @@
 
 ## About The Project
 
-[![Project Preview][project-preview]](https://rbalreira.github.io/personal-website-v1/)
+[![Project Preview][project-preview]][project-url]
 
 <p>This was a website built to showcase my professional experience, technical skills, some projects created during my academic journey and a couple of certificates achieved in that time.
 <br />Template is made by <a href="https://colorlib.com/">Colorlib</a>.
@@ -60,6 +60,7 @@ Simply open in your browser `index.html` file located in <b>root folder</b>.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rbalreira/
 [project-preview]: images/project-preview.gif
+[project-url]: https://rbalreira.github.io/personal-website-v1/
 [HTML]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white
 [SCSS]: https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white
 [SCSS-url]: https://sass-lang.com/
