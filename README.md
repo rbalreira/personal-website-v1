@@ -8,7 +8,7 @@
   <h3 align="center">Personal Website | v1</h3>
 
   <p align="center">
-    The first iteration of my Personal Website built with HTML, <a href="https://sass-lang.com/">SCSS</a>, <a href="https://www.javascript.com/">JavaScript</a> and hosted with <a href="https://pages.github.com/">GitHub Pages</a>.
+    The first iteration of my Personal Website built with HTML, <a href="https://sass-lang.com/" target="_blank">SCSS</a>, <a href="https://www.javascript.com/" target="_blank">JavaScript</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
     <br />
     <br />
   </p>
@@ -38,7 +38,7 @@
 [![Project Preview][project-preview]][project-url]
 
 <p>This was a website built to showcase my professional experience, technical skills, some projects created during my academic journey and a couple of certificates achieved in that time.
-<br />Template is made by <a href="https://colorlib.com/">Colorlib</a>.
+<br />Template is made by <a href="https://colorlib.com/" target="_blank">Colorlib</a>.
 </p>
 
 <!-- BUILT WITH -->
