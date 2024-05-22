@@ -54,6 +54,10 @@
 
 Simply open in your browser `index.html` file located in <b>root folder</b>.
 
+## Contact
+
+Ricardo Balreira - [LinkedIn][linkedin-url] - rbalreira@outlook.com
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
