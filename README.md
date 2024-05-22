@@ -7,7 +7,7 @@
 <div align="center">
   <h3 align="center">Personal Website | v1</h3>
   <p align="center">
-    The first iteration of my Personal Website built with HTML, <a href="https://sass-lang.com/" target="_blank">SCSS</a>, <a href="https://www.javascript.com/" target="_blank">JavaScript</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+    The first iteration of my Personal Website built with HTML, <a href="https://sass-lang.com/" target="_blank">SCSS</a>, <a href="https://ng-bootstrap.github.io/" target="_blank">Bootstrap</a>, <a href="https://www.javascript.com/" target="_blank">JavaScript</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   </p>
   <br />
   <br />
@@ -45,6 +45,7 @@
 
 - ![HTML][HTML]
 - [![SCSS][SCSS]][SCSS-url]
+- [![Bootstrap][Bootstrap]][Bootstrap-url]
 - [![JavaScript][JavaScript]][JavaScript-url]
 
 <!-- GETTING STARTED -->
@@ -59,8 +60,10 @@ Simply open in your browser `index.html` file located in <b>root folder</b>.
 [linkedin-url]: https://www.linkedin.com/in/rbalreira/
 [project-preview]: images/project-preview.gif
 [project-url]: https://rbalreira.github.io/personal-website-v1/
-[HTML]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white
-[SCSS]: https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white
+[HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white
+[SCSS]: https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white
 [SCSS-url]: https://sass-lang.com/
-[JavaScript]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[JavaScript]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge
 [JavaScript-url]: https://www.javascript.com/
