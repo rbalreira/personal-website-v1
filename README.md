@@ -7,7 +7,7 @@
 <div align="center">
   <h3 align="center">Personal Website | v1</h3>
   <p align="center">
-    The first iteration of my Personal Website built with HTML, <a href="https://sass-lang.com/" target="_blank">SCSS</a>, <a href="https://ng-bootstrap.github.io/" target="_blank">Bootstrap</a>, <a href="https://www.javascript.com/" target="_blank">JavaScript</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+    The first iteration of my Personal Website built with HTML, <a href="https://sass-lang.com/" target="_blank">SCSS</a>, <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>, <a href="https://www.javascript.com/" target="_blank">JavaScript</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   </p>
   <br />
   <br />
