@@ -55,7 +55,7 @@
 
 ## Getting Started
 
-Simply open in your browser `index.html` file located in <b>root folder</b>.
+Simply open `index.html` file in your browser located in <b>root folder</b>.
 
 ## Contact
 
